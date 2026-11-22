@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "EdgeExit: Evaluating Early Exit for Reasoning Models on the Edge"
+authors:
+  - family-names: "Lê"
+    given-names: "Kiên Cường"
+repository-code: "https://github.com/<your-username>/edgeexit"
+license: Apache-2.0
+version: 0.1.0
+date-released: 2026-11-22
